@@ -1,0 +1,12 @@
+#!/bin/python3
+
+name = input("Enter your name")
+age = input("Enter your age")
+degree = input("Enter your degree")
+
+x=2
+y=3
+remaining_age = int(age)*y/x
+print(remaining_age)
+print(degree)
+print(name)
